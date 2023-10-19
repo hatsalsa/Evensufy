@@ -1,8 +1,9 @@
 
 <div align="center">
-<img src=".github/evensufy-logo.png"/>
-<h1>Evensufy</h1>
+<img width="350" src=".github/readmelogo.png"/>
 </div>
+
+----
 
 Evensufy is a lightweight application built with Next.js and Supabase that allows you to stay connected with your favorite Twitch streamers. With Evensufy, you can effortlessly subscribe to Twitch EventSub notifications and receive instant updates when your preferred streamers go live.
 
