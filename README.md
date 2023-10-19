@@ -92,6 +92,9 @@ The app is designed to make all the subscriptions using the front-end and utiliz
 <img src=".github/workflow.png"></img>
 </div>
 
+## Interface
+Screenshots of the interface be found [Here](.github/screenshots/SCREENSHOTS.md).
+
 ## Roadmap:
 
 - Dockerized version
